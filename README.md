@@ -1,0 +1,2 @@
+# Online-Bus-Ticketing-System-OBTS-
+It's fully web based bus ticketing system where you will get almost every thing like Online Ticket Booking, Ticket Return, Scheduling, Route Management, Coach Management, Schedule Management, Counter Accounting, Staff management, Head-Office Accounting Management  and all support about accounts software like Profit &amp; Loss Accounting, Balance Sheet, Trial Balance, Income Statement etc.
